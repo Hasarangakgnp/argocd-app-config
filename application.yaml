@@ -7,7 +7,7 @@ spec:
   project: default
 
   source:
-    repoURL: https://git.mytaxi.lk/pramod.hasaranga/argocd-app-config.git
+    repoURL: https://github.com/Hasarangakgnp/argocd-app-config.git
     targetRevision: HEAD
     path: dev
   destination:
