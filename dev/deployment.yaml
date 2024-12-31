@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: myapp
-        image: redis:7.4.1
+        image: redis:6
         ports:
         - containerPort: 8080
